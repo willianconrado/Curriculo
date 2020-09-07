@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"pac",
+				"pacientes"
+			],
+			[
+				"al",
+				"alturaEhValida\tvar"
+			],
+			[
+				"pes",
+				"pesoEhValido\tvar"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"font-h",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"style",
+				"font-style\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"p",
+				"pincel"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"fil",
+				"fillRect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Currículo/index.html",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Aparecida Nutrição/css/index.css",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Aparecida Nutrição/js/form.js",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Aparecida Nutrição/js/calcula-imc.js",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Aparecida Nutrição/index.html",
+		"/C/Users/willi/Downloads/QuestaoBonus.sublime-build",
+		"/C/Users/willi/Downloads/QuestaoBonus.java",
+		"/C/Users/willi/Downloads/public class Foo.java",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Barbearia Alura/style-home.css",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Barbearia Alura/style.css",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Barbearia Alura/reset.css",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Barbearia Alura/index.html",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Barbearia Alura/contato.html",
+		"/C/Users/willi/OneDrive/Documentos/Projetos/Barbearia Alura/produtos.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/HTML5 e CSS3 - I/style.css",
+		"/C/Users/willi/OneDrive/Área de Trabalho/HTML5 e CSS3 - I/index.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/HTML5 e CSS3 - I/produtos.css.css",
+		"/C/Users/willi/OneDrive/Área de Trabalho/HTML5 e CSS3 - I/produtos.html.html",
+		"/C/Users/willi/OneDrive/Documentos/Projeto/LojinhaDudao/src/app/app.component.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/HTML5 e CSS3 - I/produtos.css",
+		"/C/Users/willi/OneDrive/Área de Trabalho/HTML5 e CSS3 - I/produtos.html",
+		"/C/Users/willi/Downloads/aula-5-completa/Aula 5 completa/index.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/primeiroJogo.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/programa4.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/programa3.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/mudaCor.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/teste.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/desenhaCirculo.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/programa2.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/Unidade I.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/esquadro.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica II (ALURA)/Bandeira.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/teste_JS.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/advinha_mais.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/tabuada.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/jogo.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/imc.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/prova.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/programa.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/texto_puro.html",
+		"/C/Users/willi/OneDrive/Área de Trabalho/Lógica (ALURA)/Primeiro_teste.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Currículo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
